@@ -1,19 +1,17 @@
-# TÍTULO DO PROJETO
+# Reconhecimento de presença de Tumor Cerebral
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`2021 - Semestre 1`
+`Disciplina: Visão Computacional e Realidade Misturada`
+`2023 - Semestre 1`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Eduardo Augusto Silva
+- Gustavo do Nascimento Peixoto
 
 ## Professor
 
-- Mestre Yoda
+- Prof. Will Ricardo dos Santos Machado
 
 # Documentação
 
