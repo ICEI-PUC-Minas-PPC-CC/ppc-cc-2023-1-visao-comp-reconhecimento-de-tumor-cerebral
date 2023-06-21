@@ -1,6 +1,6 @@
 # Pendências
 
-Instalar 
+Instalar:
 - PIP
 - Tensorflow
 - Keras
